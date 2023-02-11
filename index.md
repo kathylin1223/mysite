@@ -4,20 +4,22 @@ layout: default
 
 ![avatar](avatar.jpg)
 
-# Kirby
+# Winnie-the-Pooh
 
-A Nintendo Character
+小熊維尼（英語：Winnie-the-Pooh）是由英國作家艾倫·亞歷山大·米恩和插畫家歐內斯特·霍華德·謝培德創作的的擬人化泰迪熊。
 
 - - -
 
-### about
+## about
 
-Kirby (カービィ Kābī?) is a fictional character and the titular protagonist of the Kirby series of video games owned by Nintendo and HAL Laboratory. As one of Nintendo's most famous and familiar icons, Kirby's round appearance and ability to copy his foes' powers has made him a well known figure in video games, consistently ranked as one of the most iconic video game characters. 
+### Winnie
+「小熊維尼」是一名雄性的小熊。名稱Winnie是取自一名同名的雌性小熊。而最初真實的小熊Winnie是以牠家鄉加拿大緬尼托巴省首府溫尼伯（Winnipeg）的簡稱來命名。
 
-### Links
+### Pooh
+在小熊系列故事的第一本《Winnie-the-Pooh》的序中提到，「Pooh」曾是維尼的主人羅賓為一隻天鵝取的名字；另一說是小熊維尼在吹走停在他鼻子上的蜜蜂時，嘴裡會發出Pooh、Pooh的聲音。
 
- * [11 amazing Kirby facts and secrets](http://www.officialnintendomagazine.co.uk/41729/11-amazing-kirby-facts-and-secrets/)
- * [How did your favourite Nintendo characters get their names?](http://www.officialnintendomagazine.co.uk/42153/how-did-mario-get-his-name-and-the-origins-of-your-favourite-nintendo-stars/?page=6)
- * [Why is Kirby always angry in the US? Nintendo explains](http://www.gamespot.com/articles/why-is-kirby-always-angry-in-the-us-nintendo-explains/1100-6419263/)
+## Links
+
+ * [Wiki](https://zh.wikipedia.org/zh-tw/%E5%B0%8F%E7%86%8A%E7%B6%AD%E5%B0%BC)
 
 - - -
