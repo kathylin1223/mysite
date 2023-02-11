@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![avatar](avatar.jpg)
+![Pooh](Pooh.jpg)
 
 # Winnie-the-Pooh
 
